@@ -1,4 +1,5 @@
 # v2rayNG
+My brand: First fork test – 2025-08-12
 
 A V2Ray client for Android, support [Xray core](https://github.com/XTLS/Xray-core) and [v2fly core](https://github.com/v2fly/v2ray-core)
 
@@ -30,3 +31,4 @@ For a quick start, read guide for [Go Mobile](https://github.com/golang/go/wiki/
 
 v2rayNG can run on Android Emulators. For WSA, VPN permission need to be granted via
 `appops set [package name] ACTIVATE_VPN allow`
+docs: brand test line
